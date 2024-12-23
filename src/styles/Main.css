@@ -1,0 +1,21 @@
+body{
+    background-color: rebeccapurple;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.character_name{
+    color: green;
+}
+.info--font_header{
+    color: white;
+    font-size: 30px;
+}
+.info--font_header span{
+    color:gold;
+}
+.info--font_footer{
+    font-size: 20px;
+    color:gold;
+}
